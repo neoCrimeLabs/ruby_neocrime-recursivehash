@@ -27,6 +27,12 @@ It's merely an extension of core Hash and meant to be a drop-in replacement.
     > recursive
     => {"1"=>{"2"=>{"3"=>"Testing"}}}
 
+# Installation
+
+    gem install neocrime-recursivehash
+
+or add "neocrime-recursivehash" to your Gemfile
+
 # License
 
 This Source Code Form is subject to the terms of the Mozilla Public
